@@ -27,7 +27,7 @@
 	wv_train.model_training("wiki_seg.txt","med250.model.bin")
 
 	# load model
-        # 模型读取
+	# 模型读取
 	# model = wv_train.model_load("med250.model.bin")
 
 	# do some little tests
